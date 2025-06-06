@@ -1,4 +1,4 @@
-## Hi there, I'm Alexandr 👋
+## Привет 👋 Меня зовут Александр!
 
 <!--
 **Andrles/Andrles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
