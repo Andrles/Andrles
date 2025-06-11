@@ -17,6 +17,17 @@
 
 ###
 
+<h3 align="left">🛠 Технологии:</h3>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+</div>
+
+###
 <!--
 **Andrles/Andrles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
