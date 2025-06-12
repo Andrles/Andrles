@@ -20,20 +20,12 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Andrles.Andrles"  />
 </div>
 
-###
-
-<h3 align="left">👩‍💻  Обо мне</h3>
-
-###
+## 👩‍💻  Обо мне
 
 <p align="left">Привет! Я начинающий аналитик данных. С сентября 2024 по май 2025 года обучался на курсе «Аналитик данных» в Яндекс Практикуме, где получил прочную базу в Python, SQL, визуализации, статистике и A/B-тестировании. Все проекты в этом репозитории — часть моего учебного и практического пути. Сейчас я активно ищу первую работу в аналитике и продолжаю развиваться в этой сфере через практику и изучение новых инструментов.
 
-
 ###
-
-<h3 align="left">🛠 Tech:</h3>
-
-###
+## 🛠 Tech:
 
 ###
 <p align="left">
@@ -43,7 +35,7 @@
 </p>
 
 
-# 💻 lib:
+## 💻 lib:
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Andrles&theme=default&hide_border=true&include_all_commits=true&count_private=false)<br/>
