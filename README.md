@@ -15,6 +15,3 @@
 
 [**Аналитика**](https://github.com/Andrles/Andrles/tree/main/analytics) — исследования, SQL, Python и A/B-тесты.
 
-## Контакт
-
-Telegram: [@Lesandr747](https://t.me/Lesandr747)
